@@ -1,3 +1,4 @@
 Teclado
 Ratón
 Monitor de 27 pulgadas
+ajuste de precio aplicado correctamente
