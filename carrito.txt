@@ -1,2 +1,3 @@
 Teclado
 Ratón
+Monitor de 27 pulgadas
